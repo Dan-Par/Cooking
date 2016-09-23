@@ -1,2 +1,2 @@
 # Cooking
-This is thewebsite about my hooby, cooking.
+This is thewebsite about my hobby, cooking.
